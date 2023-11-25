@@ -44,11 +44,25 @@ csv файл с колонками: customer_id, date_diff_post, buy_post
 
 Данное решение можно будет использовать для масштабирования на 
 
+`mlflow.set_tracking_uri('http://79.137.194.156:5000/')`
+
 ### Используемые библиотеки 
 ***
 - `pandas`
 - `numpy`
 - `matplotlib`
 - `sklearn`
-- `
+- `re`
+- `torch`
+- `transformers`
+- `tqdm`
+- `seaborn`
+- `catboost`
+- `matplotlib`
+- `itertools`
+- `pprint`
+- `mlflow`
+- `time`
+- `os`
+
 
