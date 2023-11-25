@@ -34,7 +34,7 @@ csv файл с колонками: customer_id, date_diff_post, buy_post
 - `current_aggregations.ipynb` - считаются простые агрегации 
 - `embedings.ipynb` - просчет эмбедингов LaBSE - https://huggingface.co/cointegrated/LaBSE-en-ru
 - `predict_cat_boost_datasphere-2.ipynb` - классификатор 
-- `Model_RMSE.ipynb` - 
+- `Model_RMSE.ipynb` - модель, которая обучает на таргет date_diff_post и предсказывает его 
 
 
 
